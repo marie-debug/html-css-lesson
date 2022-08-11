@@ -1,0 +1,15 @@
+.bold-red {
+    color:#00ffff;
+}
+p {
+    color:hsl(355, 61%, 50%)
+}
+p :hover{
+    color:green
+}
+.big {
+    font-size: 2rem;
+}
+#second-item{
+    padding-left: 2rem;
+}
